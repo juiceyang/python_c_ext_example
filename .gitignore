@@ -1,0 +1,4 @@
+.vs
+win32
+c_ext_example/Debug
+c_ext_example/Release
